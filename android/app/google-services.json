@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939403491775",
+    "project_id": "assistant-c6450",
+    "storage_bucket": "assistant-c6450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939403491775:android:8256fe9136a89de1db890a",
+        "android_client_info": {
+          "package_name": "com.example.voice_assistent_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQV2ugp7GWpjw2LVBtKacJoolNTK6JVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

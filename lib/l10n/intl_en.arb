@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "title": "Voice Assistant",
+  "sendHint": "Send a message",
+  "appTitle": "Voice Assistant",
+  "helloWorld": "Hello World"
+}
